@@ -28,4 +28,4 @@ The goal of this project was to calculate AT&T’s cost of equity, bond yield/co
 - Financial statement organization
 
 ## Files
-Li.AT&T.xlsx - Excel workbook containing AT&T financial statement data, bond yield calculations, cost of equity estimates, capital structure weights, and WACC analysis.
+- Li.AT&T.xlsx - Excel workbook containing AT&T financial statement data, bond yield calculations, cost of equity estimates, capital structure weights, and WACC analysis.
